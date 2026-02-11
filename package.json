@@ -1,0 +1,15 @@
+{
+  "name": "cve-context-demo",
+  "version": "1.0.0",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "dependencies": {
+    "@babel/parser": "7.14.8",
+    "@babel/traverse": "7.14.8",
+    "@babel/types": "7.14.8",
+    "word-wrap": "1.2.3",
+    "ws": "7.5.3"
+  }
+}
