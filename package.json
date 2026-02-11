@@ -9,7 +9,7 @@
     "@babel/parser": "7.14.8",
     "@babel/traverse": "7.14.8",
     "@babel/types": "7.14.8",
-    "word-wrap": "1.2.3",
+    "word-wrap": "1.2.4",
     "ws": "7.5.3"
   }
 }
